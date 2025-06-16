@@ -11,6 +11,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ju-queiroz&bg_color=000000&color=79158e&line=79158e&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+##  Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-queiroz-6b3467296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat&logo=gmail&logoColor=FFFFFF)](mailto:juliaoliveira.qd@gmail.com)
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67077b&height=120&section=footer"/>
 
