@@ -13,7 +13,7 @@
 
 ##  Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-queiroz-6b3467296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  
+[![LinkedIn](https://www.linkedin.com/in/julia-queiroz-de-oliveira-180576379/)  
 [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat&logo=gmail&logoColor=FFFFFF)](mailto:juliaoliveira.qd@gmail.com)
 
 
