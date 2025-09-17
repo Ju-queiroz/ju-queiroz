@@ -6,7 +6,9 @@
 
 <div align="center">  
  
-  
+  ![Commits](https://badgen.net/github/commits/ju-queiroz/ju-queiroz)
+  ![Pull Requests](https://badgen.net/github/prs/ju-queiroz)
+  ![Forks](https://badgen.net/github/forks/ju-queiroz/ju-queiroz)
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-queiroz&layout=compact&hide_border=true&title_color=7915E8&bg_color=0d1117" />
 
 </div>
