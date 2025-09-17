@@ -6,7 +6,9 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ju-queiroz&show_icons=true&count_private=true&hide_border=true&title_color=79158e&icon_color=79158e&text_color=c9d1d9&bg_color=0d1117" alt="Camille Tarine da Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-queiroz&layout=compact&hide_border=true&title_color=79158e&text_color=79158e&bg_color=0d1117" />
+ ![Commits](https://badgen.net/github/commits/ju-queiroz/ju-queiroz)
+![Pull Requests](https://badgen.net/github/prs/ju-queiroz)
+![Forks](https://badgen.net/github/forks/ju-queiroz/ju-queiroz)
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ju-queiroz&bg_color=000000&color=79158e&line=79158e&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
